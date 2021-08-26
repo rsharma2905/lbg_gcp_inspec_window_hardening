@@ -1,0 +1,1 @@
+# lbg_gcp_inspec_window_hardening
